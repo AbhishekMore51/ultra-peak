@@ -1,0 +1,8 @@
+{
+  "name": "Ultrapeak — Advanced Electrolyte Hydration",
+  "description": "Zero-sugar sports and daily electrolyte hydration powder with L-Theanine, Sodium, Potassium, and Magnesium. Official Electrolyte Partner of Devils Circuit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
